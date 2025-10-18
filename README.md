@@ -5,7 +5,9 @@ DALAS project
 Pre-requisites:
 
 python 3.10 or newer
+
 pip install pyairbnb
+
 pip install pandas numpy matplotlib seaborn
 
 
