@@ -1,3 +1,10 @@
 data/origin_kaggle_data.csv
 data/origin_Listings_data_dictionary.csv
 airbnb/clean_data/clean_kaggle_data.csv
+
+# Large data files - excluded from repo
+*.csv
+airbnb/insideAirBnBdataset1.csv
+airbnb/insideAirBnBdataset2.csv
+scraped_data.csv
+paris_airbnb_*.csv
